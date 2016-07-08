@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Diario de mis viajes</string>
+
+    <!-- Títulos para las actividades -->
+    <string name="titulo_actividad_editar">Edit trip</string>
+    <string name="titulo_actividad_detalle">Detail</string>
+    <string name="titulo_actividad_crear">Crete trip</string>
+
+    <!-- Nombres para los botones -->
+    <string name="btn_eliminar">Delete</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_editar">Edit</string>
+    <string name="btn_almacenar">Save</string>
+
+    <!-- Texto para las categorías de los viajes -->
+    <string-array name="categorias_viaje">
+        <item>Negocios</item>
+        <item>Placer</item>
+        <item>Salud</item>
+    </string-array>
+
+    <!-- Texto para los diálogos -->
+    <string name="dialogo_aceptar">Accept</string>
+    <string name="dialogo_descartar">Ignore changes?</string>
+    <string name="dialogo_cancelar">Cancel</string>
+    <string name="dialogo_eliminar">Eliminate trip</string>
+
+    <!-- Errores -->
+    <string name="error_acceso_viajes">Try to create a new trip</string>
+    <string name="error_actualizar">Error: it\'s not possible to update the trip</string>
+    <string name="error_eliminar">Error: it\'s not possible to delete the trip</string>
+    <string name="error_detalle">Error: it\'s not possible to access to the details of the trip</string>
+    <string name="error_registro">Error: it\'s not possible to get the register</string>
+    <string name="error_identificador">Error: an identifier is needed</string>
+    <string name="error_crear_viaje">Error: can\'t create the trip</string>
+
+    <string name="error_title_vacio">Error: the title is required</string>
+    <string name="error_description_vacio">Error: the description is required</string>
+
+    <!-- OK -->
+    <string name="ok_actualizar">Trip updated!</string>
+    <string name="ok_eliminar">Trip deleted!</string>
+    <string name="ok_crear">Trip created!</string>
+
+
+    <!-- Resto de textos-->
+    <string name="viaje_titulo">Title</string>
+    <string name="viaje_categoria">Category</string>
+    <string name="viaje_fecha">Date</string>
+    <string name="viaje_descripcion">Description</string>
+
+    <string name="detalle_descripcion">Description</string>
+    <string name="detalle_fecha">Date</string>
+    <string name="detalle_categoría">Category</string>
+
+</resources>

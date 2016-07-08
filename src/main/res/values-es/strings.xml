@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiarioDeMisViajes</string>
+
+    <string name="btn_almacenar">Almacenar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+
+    <string-array name="categorias_viaje">
+        <item>Negocios</item>
+        <item>Placer</item>
+        <item>Salud</item>
+    </string-array>
+
+    <string name="detalle_categoría">Categoría</string>
+    <string name="detalle_descripcion">Descripción</string>
+    <string name="detalle_fecha">Fecha</string>
+
+    <string name="dialogo_aceptar">Aceptar</string>
+    <string name="dialogo_cancelar">Cancelar</string>
+    <string name="dialogo_descartar">¿Descartar cambios?</string>
+    <string name="dialogo_eliminar">Se va a eliminar el viaje</string>
+
+    <string name="titulo_actividad_crear">Crear viaje</string>
+    <string name="titulo_actividad_detalle">Ver detalle</string>
+    <string name="titulo_actividad_editar">Editar Viaje</string>
+
+    <string name="viaje_categoria">Categoría</string>
+    <string name="viaje_descripcion">Descripción</string>
+    <string name="viaje_fecha">Fecha</string>
+    <string name="viaje_titulo">Título</string>
+    <string name="error_acceso_viajes">Intenta crear un nuevo viaje</string>
+    <string name="error_actualizar">Error: no es posible actualizar el viaje</string>
+    <string name="error_crear_viaje">Error: no se puede crear el viaje</string>
+    <string name="error_detalle">Error: no se puede acceder a los detalles del viaje</string>
+    <string name="error_eliminar">Error: no se puede eliminar el viaje</string>
+    <string name="error_identificador">Error: se necesita un identificador</string>
+    <string name="error_registro">Error: no se puede obtener el registro</string>
+    <string name="ok_actualizar">Viaje actualizado!</string>
+    <string name="ok_crear">Viaje creado!</string>
+    <string name="ok_eliminar">Viaje eliminado!</string>
+    <string name="error_description_vacio">Error: la descripción es necesaria</string>
+    <string name="error_title_vacio">Error: el título es necesario</string>
+</resources>

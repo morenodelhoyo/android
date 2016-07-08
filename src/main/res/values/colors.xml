@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de colores principales de la app -->
+    <color name="primary">#7f188c</color>
+    <color name="accent">#cf32e2</color>
+    <color name="ripple">#FD98A2</color>
+    <color name="tertiary">#455561</color>
+    <color name="background">#FFFFFF</color>
+    <color name="textColorPrimary">#323232</color>
+    <color name="textColorSecondary">#434343</color>
+    <color name="transparent_actionbar_background">#24000000</color>
+
+    <!-- Colores para el Botón Flotante de edición -->
+    <color name="colorNormalMini">#ce5906</color>
+    <color name="colorPressedMini">#e97b2e</color>
+    <color name="colorRippleMini">#a41a38</color>
+
+    <!-- Colores para cada tipo de viaje -->
+    <color name="negocios">#2e4651</color>
+    <color name="placer">#a41a38</color>
+    <color name="salud">#10af8f</color>
+</resources>
+
